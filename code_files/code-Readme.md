@@ -1,1 +1,1 @@
-LSTM notebook folder implements a full pipeline for claim-evidence matching using a BiLSTM-based retrieval model. It includes data preprocessing, training with triplet loss, and final prediction. Simply run the cells in order to execute the complete workflow.
+(Baseline Model) LSTM notebook folder implements a full pipeline for claim-evidence matching using a BiLSTM-based retrieval model. It includes data preprocessing, training with triplet loss, and final prediction. Simply run the cells in order to execute the complete workflow.
